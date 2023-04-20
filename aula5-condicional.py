@@ -6,7 +6,7 @@ average = (notaone + notatwo)/2
 if average >= 7: #"se" simples 
     print("Você passou :)\n")
 
-elif media == 6: 
+elif average == 6: 
     print("Você está de recuperação!")
 
 else: 
