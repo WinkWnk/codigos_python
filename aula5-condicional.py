@@ -13,7 +13,4 @@ else:
     print("Você ficou reprovado")
 
 
-'''
-else: 
-    print ("Você reprovou :(\n")
-'''
+
