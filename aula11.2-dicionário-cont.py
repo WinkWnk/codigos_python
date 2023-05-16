@@ -27,4 +27,5 @@ for contador in range(0,3):
 #OUTRA FORMA DE ACESSAR DICIONÁRIO
 for linha in grupo:
     for elemento in linha.values():
-        print(f"{elemento}")
+        print(f"{elemento}", end="-- ")
+    print()
